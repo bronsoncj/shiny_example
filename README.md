@@ -10,3 +10,6 @@ The ui code is on the top half of the page, the server code is on the bottom hal
 
 The user can filter by things like price, and decade the houses were built etc. The maps handle the breakdown of price
 over time by focusing on zipcode and long/lat coordinates of the individual houses.
+
+link to app:
+https://chad-bronson.shinyapps.io/Assignment_5/
